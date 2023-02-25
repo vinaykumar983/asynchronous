@@ -38,3 +38,8 @@ func();
 
 
 
+//setTimeout
+
+setTimeout(()=>{
+    console.log("This is setTime out")
+},10000)
